@@ -1,11 +1,11 @@
-## 📚 Self-Study Repository
+## 📚 qa-learning-lab Repository
 
 This repository contains my learning materials, practice tasks, and notes collected while developing my QA and test automation skills.
 
 ### 📂 Repository Structure
 
 ```
-Self-study/
+qa-learning-lab/
 │
 ├── SQL/
 ├── JavaScript/
